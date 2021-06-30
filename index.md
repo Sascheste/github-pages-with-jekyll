@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog" prova
+title: "Blog mio vattene che cazzo vuoi" 
 ---
 
-I'm glad you are here. I plan to talk about provaprova
+Ti ho detto vattene cazzo coglione
